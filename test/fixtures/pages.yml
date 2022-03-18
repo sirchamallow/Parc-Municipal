@@ -1,0 +1,17 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  short_description: MyString
+  long_description: MyString
+  gps_latitude: MyString
+  gps_longitude: MyString
+  travel_time: 1
+
+two:
+  name: MyString
+  short_description: MyString
+  long_description: MyString
+  gps_latitude: MyString
+  gps_longitude: MyString
+  travel_time: 1

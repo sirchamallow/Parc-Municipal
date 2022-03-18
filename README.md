@@ -1,24 +1,18 @@
 # README
-
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
+Parc & Jardins Publics est un side-project personnel
 
 * Ruby version
-
 * System dependencies
+* Database : PostegreSQL
+* Deployment : Heroku
 
-* Configuration
 
-* Database creation
+Parc & Jardins Publics est un side-project de Pierre LEMASSON. Répondant à une problématique des municipalités disposant d'un parc municipal.
 
-* Database initialization
+La problématique
+bien souvent celles-ci n'ont pas la possibilité d'allouer des moyens financiers pour faire un site internet sur le parc. Et c'est bien dommage, car un parc public c'est quelque chose d'incroyable.
 
-* How to run the test suite
+La réponse
+L'idée est donc de proposer un site clé en main et s'en servir ensuite.
 
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Written with StackEdit.
