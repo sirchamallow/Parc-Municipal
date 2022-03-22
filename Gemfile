@@ -24,7 +24,7 @@ gem 'bootsnap', '>= 1.4.4', require: false
 gem 'bootstrap', '~> 5.1', '>= 5.1.3'
 gem 'simple_form', github: 'heartcombo/simple_form'
 gem 'nokogiri', '~> 1.13', '>= 1.13.3'
-
+gem 'htmlbeautifier'
 
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
